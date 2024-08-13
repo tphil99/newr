@@ -3,5 +3,7 @@
 #' Prints x
 #' 
 #' @param x anythin
+#' @import tibble
 #' @export
-f <- function(x) print(x)
+
+f <- function() {print("hi"); tibble::tibble}

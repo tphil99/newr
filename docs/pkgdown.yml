@@ -1,0 +1,7 @@
+pandoc: 3.1.13
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  an: an.html
+  best-vignette: best-vignette.html
+last_built: 2024-08-13T18:46Z

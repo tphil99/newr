@@ -4,7 +4,7 @@
 \alias{f}
 \title{Title}
 \usage{
-f(x)
+f()
 }
 \arguments{
 \item{x}{anythin}
